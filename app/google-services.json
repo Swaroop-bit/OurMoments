@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045464313549",
+    "project_id": "photoapp-8d81a",
+    "storage_bucket": "photoapp-8d81a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045464313549:android:23ea7480595109935fc384",
+        "android_client_info": {
+          "package_name": "com.swaroop.photosender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtIaDbH-Bq3HrZfrN8h3tNHIrbNAoHlXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
